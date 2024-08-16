@@ -1,0 +1,25 @@
+Neutralidade de rede - É o princípio de que todos os dados na internet devem ser tratados da mesma maneira e com a mesma velocidade pelos provedores de serviços de internet, sem bloqueio ou priorização de conteúdo, sites ou plataformas específicas. Assim, garante que os usuários tenham acesso livre e igualitário a qualquer conteúdo na internet.
+
+Referencias: https://internetlab.org.br/pt/especial/neutralidade-da-rede-questoes-atuais-e-futuras-em-debate/
+https://portal.fiocruz.br/documento/principios-fundamentais-do-marco-civil-da-internet
+
+Variável - As variáveis permitem que os programas armazenem informações temporárias, manipulem dados em um programa, e façam operações baseadas nesses valores durante a execução de um código. Elas são nomeadas e associadas a um espaço na memória que armazena os dados, que podem ser números, textos, objetos etc.
+
+Referencias:  https://www.people.com.br/noticias/informatica/o-que-sao-variaveis-e-para-que-elas-servem-na-programacao#:~:text=Uma%20vari%C3%A1vel%20%C3%A9%20um%20espa%C3%A7o,definidas%20por%20nomes%20e%20tipos.
+https://hub.asimov.academy/blog/variaveis-constantes-programacao/
+
+Memória - Em computação, memória refere-se aos componentes físicos ou dispositivos que tem como função armazenar dados diversos de maneira temporária ou permanente. A memória é essencial para a execução de programas, pois é onde os dados são carregados e manipulados.
+
+Referencias: https://www.hostmidia.com.br/blog/memoria-o-que-e-para-que-serve/
+https://www.batebyte.pr.gov.br/Pagina/memorias-do-Computador
+
+Sistema de arquivos - Um sistema de arquivos é uma maneira de organizar, armazenar, recuperar e manipular dados em um dispositivo de armazenamento, como disco rígido, unidade de estado sólido (SSD) ou pendrive. Ele define como os dados são organizados em arquivos e pastas e como as operações de leitura e gravação são realizadas.
+
+Referencias: https://www.kingston.com/br/blog/personal-storage/understanding-file-systems#:~:text=Um%20sistema%20de%20arquivos%20%C3%A9,organizados%20no%20dispositivo%20de%20armazenamento.
+https://www.techtudo.com.br/noticias/2016/02/entenda-o-que-e-sistema-de-arquivos-e-sua-utilidade-no-pc-e-no-celular.ghtml
+
+Zero rating - É uma prática onde provedores de serviços de internet não cobram pelo tráfico de dados móveis para acessar certos aplicativos ou serviços específicos. Isso significa que o uso desses serviços não é contado contra o limite de dados do usuário.
+
+Referencias: https://www.techtudo.com.br/noticias/2015/05/o-que-e-zero-rating-entenda-polemica-que-envolve-facebook-e-operadoras.ghtml
+https://lapin.org.br/2021/08/02/zero-rating-e-desinformacao-a-relacao-entre-a-precariedade-do-acesso-a-internet-no-brasil-e-a-disseminacao-de-conteudos-enganosos/
+
